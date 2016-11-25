@@ -7,6 +7,7 @@
     tools:context="com.vi.kenburnseffect.MainActivity">
 
     <com.flaviofaria.kenburnsview.KenBurnsView
+        android:id="@+id/iv_ken_burns"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:src="@drawable/sea_deep_water"/>
